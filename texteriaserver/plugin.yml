@@ -1,0 +1,12 @@
+name: Texteria
+main: net.xtrafrancyz.bukkit.texteria.Texteria
+version: 1.0
+
+commands:
+  texteria:
+    description: Тестинг
+    permission: texteria.command
+
+permissions:
+  texteria.command:
+    default: op
